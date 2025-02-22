@@ -1,0 +1,5 @@
+Log file created at: 2022/04/03 19:49:27
+Running on machine: luoxiYundeMacBook-Pro.local
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F20220403 19:49:27.076542 124624896 concurrentMapBench.cpp:184] Check failed: region[FLAGS_value_size] == it->second[FLAGS_value_size] (char value -96 vs. char value 0) 

@@ -1,0 +1,12 @@
+Log file created at: 2022/04/03 19:54:30
+Running on machine: luoxiYundeMacBook-Pro.local
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20220403 19:54:30.559995 88831488 concurrentMapBench.cpp:150] Concurrent hashmap traverse
+I20220403 19:55:49.776528 56008704 concurrentMapBench.cpp:175] Thread 0 id:0x70000356a000
+I20220403 19:55:49.776556 57081856 concurrentMapBench.cpp:175] Thread 2 id:0x700003670000
+I20220403 19:55:49.776561 57618432 concurrentMapBench.cpp:175] Thread 3 id:0x7000036f3000
+I20220403 19:55:49.776677 56545280 concurrentMapBench.cpp:175] Thread 1 id:0x7000035ed000
+I20220403 19:55:49.777212 88831488 concurrentMapBench.cpp:194] Threads execution start
+I20220403 19:55:50.160890 88831488 concurrentMapBench.cpp:203] 4 threads traverse 1000000 amount of pairs spent total amount of time cost 383ms
+I20220403 19:55:50.160995 88831488 concurrentMapBench.cpp:205] Average cost 0.383726us

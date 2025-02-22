@@ -1,0 +1,7 @@
+Log file created at: 2022/04/03 15:33:09
+Running on machine: luoxiYundeMacBook-Pro.local
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20220403 15:33:09.908432 306640384 concurrentMapBench.cpp:83] Parallel unordered map traverse
+I20220403 15:33:17.628057 306640384 concurrentMapBench.cpp:136] 4 threads traverse 1000000 amount of pairs spent total amount of time cost 121ms
+I20220403 15:33:17.628075 306640384 concurrentMapBench.cpp:137] Average cost 0.121902us ops 8.20332Mops

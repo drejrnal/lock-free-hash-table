@@ -1,0 +1,5 @@
+Log file created at: 2022/04/07 15:42:24
+Running on machine: luoxiYundeMacBook-Pro.local
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20220407 15:42:24.838567 314643968 concurrentMapBench.cpp:123] Average cost 2.30621us 0.433611Mops

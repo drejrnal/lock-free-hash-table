@@ -1,0 +1,7 @@
+Log file created at: 2022/04/09 17:17:13
+Running on machine: luoxiYundeMacBook-Pro.local
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20220409 17:17:13.704836 269932032 concurrentMapBench.cpp:291] After operations size of map is 950253
+I20220409 17:17:13.707082 269932032 concurrentMapBench.cpp:295] 8 threads operates spending total amount of time cost 596ms
+I20220409 17:17:13.707088 269932032 concurrentMapBench.cpp:298] Throughput 1.67588Mops

@@ -1,0 +1,7 @@
+Log file created at: 2022/04/03 19:48:34
+Running on machine: luoxiYundeMacBook-Pro.local
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F20220403 19:48:34.456923 32755712 concurrentMapBench.cpp:183] Check failed: region[0] == it->second[0] (char value 2 vs. 'l') 
+F20220403 19:48:34.456928 31682560 concurrentMapBench.cpp:183] Check failed: region[0] == it->second[0] (char value 2 vs. 'L') F20220403 19:48:34.456948 32219136 concurrentMapBench.cpp:183] Check failed: region[0] == it->second[0] ('k' vs. 's') 
+F20220403 19:48:34.456928 31682560 concurrentMapBench.cpp:183] Check failed: region[0] == it->second[0] (char value 2 vs. 'L') F20220403 19:48:34.456948 32219136 concurrentMapBench.cpp:183] Check failed: region[0] == it->second[0] ('k' vs. 's') 
